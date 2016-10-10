@@ -3,8 +3,7 @@ Transformation scripts for converting GEO to RDF.
 
 #Raw data
 Download latest DB: http://gbnci.abcc.ncifcrf.gov/geo/ SQLite3 database
-
-#Table descriptions: https://gbnci-abcc.ncifcrf.gov/geo/geo_help.php#description
+Table descriptions: https://gbnci-abcc.ncifcrf.gov/geo/geo_help.php#description
 
 #Tables:
 1. GSM
