@@ -4,7 +4,7 @@ npm v3+
 gsmCharacteristics.csv file in the folder
 
 #Installing
-Clone the repository
+Clone the repository: https://gitlab.com/yamalight/gsmCharacteristics 
 Run npm install
 
 #Running transformation to JSON
